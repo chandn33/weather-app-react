@@ -5,10 +5,22 @@
     border-radius: 8px;
     background: #dbcffa;
     }
+    .btn-primary:hover {
+        background: #797878;
+        border: #797878;
+    }
+    .btn-primary {
+        background: #aa8ff7;
+        border: #aa8ff7;
+    }
+    .form-control:focus {
+        border-color: #797878;
+        box-shadow: 0 0 0 0.2rem rgba(0, 0, 255, 0.25);
+    }
     .Weather h1 {
         color: #636262;
         display: block;
-        font-size: 25px;
+        font-size: 33px;
         font-weight: 200;
         line-height: 1.5;
         margin: 20px 0 0 0;
