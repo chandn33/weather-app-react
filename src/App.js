@@ -11,7 +11,7 @@ export default function App() {
     
     <footer>
     Open-source on {""}
-      <a href="https://github.com/chandn33/react-weather-app" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/chandn33/weather-app-react" target="_blank" rel="noopener noreferrer">
         GitHub</a> | Project designed by Chandni Patel🌻
     </footer>
     </div>
