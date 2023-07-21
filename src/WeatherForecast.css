@@ -4,7 +4,7 @@
 }
 .col {
     margin: 10px;
-    border: 1px solid #aa8ff7;
+    border: 1px solid #b39bf3;
     background: #b39bf3;
     border-radius: 10px;
     margin-right: 10px;
@@ -12,6 +12,7 @@
 }
 .col:hover {
         background: #d5c7f8;
+        border: #d5c7f8;
 }
 .WeatherForecast-temperature-min {
     font-weight: bold;
