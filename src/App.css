@@ -3,8 +3,9 @@
   margin: 30px auto;
 }
 .App footer {
+  text-align: center;
   font-family: courier;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: bold;
   color: #636262;
   margin: 10px 0;
